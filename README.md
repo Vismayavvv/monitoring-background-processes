@@ -39,6 +39,6 @@ Includes exception handling for missing processes, permission issues, and file a
 2. Install dependencies:
    ```bash
    pip install psutil
-3 . Run the scripy
-     ```bash
-    python process_monitor.py
+3 . Run the script
+   ```bash
+   python process_monitor.py
