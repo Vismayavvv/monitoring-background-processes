@@ -40,5 +40,5 @@ Includes exception handling for missing processes, permission issues, and file a
    ```bash
    pip install psutil
 3 . Run the scripy
-    ' ' ' bash
+     ```bash
     python process_monitor.py
