@@ -1,4 +1,4 @@
-CPU Monitoring and Logging Script
+#CPU Monitoring and Logging Script
 Overview
 
 This project is a cross-platform CPU monitoring script written in Python. It collects CPU utilization data for running processes, identifies high CPU–consuming processes based on a configurable threshold, and logs the results in a structured JSON format. The solution works on both Windows and Linux systems.
